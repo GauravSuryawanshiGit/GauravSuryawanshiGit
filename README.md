@@ -7,6 +7,8 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/8e04d87b-1cd1-4171-ae78-3669b957a885" width="650"/>
 </p>
+![ErrorCodeGIF](https://github.com/user-attachments/assets/5a6e88b3-2c3b-43f9-b6a1-97570ad494c9)
+
 
 ---
 
