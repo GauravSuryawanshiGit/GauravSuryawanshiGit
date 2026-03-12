@@ -95,7 +95,7 @@ Problem Solving
 </p>
 
 ---
-##LeetCode Stats
+## LeetCode Stats
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/Garry1211?theme=dark&font=Baloo&ext=heatmap"/>
