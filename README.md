@@ -1,13 +1,14 @@
-<h1 align="center">Gaurav Suryawanshi</h1>
+![LoveGIF](https://github.com/user-attachments/assets/54e135f8-39be-4439-8cb1-7ba063dc8e2c)<h1 align="center">Gaurav Suryawanshi</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Problem+Solver">
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/5a6e88b3-2c3b-43f9-b6a1-97570ad494c9" width="650"/>
+<img src="https://github.com/user-attachments/assets/28b9acd4-3c80-4719-9806-f30c09616296" width="650"/>
 </p>
-![)
+
+
 
 
 ---
