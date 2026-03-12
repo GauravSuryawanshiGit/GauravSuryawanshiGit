@@ -119,5 +119,18 @@ Problem Solving
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/
+<a href="https://www.linkedin.com/in/gaurav-suryawanshi-75b553285/">
+<img src="https://img.shields.io/badge/LinkedIn-Gaurav%20Suryawanshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/suryawanshi_1211/">
+<img src="https://img.shields.io/badge/Instagram-suryawanshi__1211-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Garry1211/">
+<img src="https://img.shields.io/badge/LeetCode-Garry1211-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
