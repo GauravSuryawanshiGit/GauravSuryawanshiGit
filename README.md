@@ -60,7 +60,7 @@ Problem Solving
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,nodejs,express,mongodb,react&perline=6"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,nodejs,express,mysql,mongodb,react&perline=6"/>
 
 </p>
 
