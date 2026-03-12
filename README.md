@@ -3,6 +3,9 @@
 Computer Science Engineering Student  
 Full Stack Developer  
 Problem Solver
+
+
+
 ![ModernProblemsSolutionsGIF](https://github.com/user-attachments/assets/8e04d87b-1cd1-4171-ae78-3669b957a885)
 
 
