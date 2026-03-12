@@ -89,8 +89,8 @@ Problem Solving
 ## GitHub Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GauravSuryawanshiGit&margin-w=15&margin-h=15"/>
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravSuryawanshiGit&layout=compact&theme=tokyonight"/>
 
 </p>
 
