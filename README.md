@@ -3,6 +3,8 @@
 Computer Science Engineering Student  
 Full Stack Developer  
 Problem Solver
+![CodingKiraGIF](https://github.com/user-attachments/assets/8b4edeb3-000a-439b-a0a4-dea00c1f397e)
+
 
 ## 🚀 Projects
 - FarmConnect
