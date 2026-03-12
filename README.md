@@ -3,7 +3,8 @@
 Computer Science Engineering Student  
 Full Stack Developer  
 Problem Solver
-![CodingKiraGIF](https://github.com/user-attachments/assets/8b4edeb3-000a-439b-a0a4-dea00c1f397e)
+![ModernProblemsSolutionsGIF](https://github.com/user-attachments/assets/8e04d87b-1cd1-4171-ae78-3669b957a885)
+
 
 
 ## 🚀 Projects
