@@ -67,7 +67,7 @@ Problem Solving
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman"/>
 
 </p>
 
