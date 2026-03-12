@@ -1,16 +1,22 @@
-## Hi there 👋
-I am Gaurav
-<!--
-**GauravSuryawanshiGit/GauravSuryawanshiGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Gaurav
 
-Here are some ideas to get you started:
+Computer Science Engineering Student  
+Full Stack Developer  
+Problem Solver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- FarmConnect
+- Carbon Footprint Calculator
+- Financial Froud Detection System
+- News HeadLine Hub 
+
+## 🛠 Tech Stack
+C | C++ | Java | HTML | CSS | JavaScript  
+Node.js | MongoDB | Express | React 
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GauravSuryawanshiGit&show_icons=true)
+
+## 🔗 Connect With Me
+- LinkedIn
+- Portfolio
