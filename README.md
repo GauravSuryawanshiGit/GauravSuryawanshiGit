@@ -75,17 +75,6 @@ I'm currently open to **internship** and **full-time Software Development opport
 
 # Featured Projects
 
-###  FarmConnect
-Connects farmers directly with consumers, reducing dependency on middlemen.
-Enables farmers to list, manage, and sell their agricultural products online.
-Allows customers to browse fresh produce, compare products, and place orders easily.
-Includes secure user authentication, product management, and a user-friendly interface.
-Built using the MERN Stack to create a transparent, efficient, and accessible digital marketplace for agriculture.
-
-**Tech Stack:** Node.js • Express • MongoDB
-
----
-
 ###  Quizo
 * A modern online quiz platform designed for interactive learning and skill assessment.
 * Supports multiple quiz categories, difficulty levels, timers, and real-time score tracking.
@@ -94,7 +83,18 @@ Built using the MERN Stack to create a transparent, efficient, and accessible di
 * Built using the **MERN Stack** with a focus on scalability, responsive design, and an engaging user experience.
 
 
-**Tech Stack:** Node.js • Express • MongoDB • Bootstrap
+**Tech Stack:** Node.js • Express • MongoDB • Bootstrap • TypeScript
+
+---
+
+###  FarmConnect
+* Connects farmers directly with consumers, reducing dependency on middlemen.
+* Enables farmers to list, manage, and sell their agricultural products online.
+* Allows customers to browse fresh produce, compare products, and place orders easily.
+* Includes secure user authentication, product management, and a user-friendly interface.
+* Built using the MERN Stack to create a transparent, efficient, and accessible digital marketplace for agriculture.
+
+**Tech Stack:** Node.js • Express • MongoDB • Bootstrap • JavaScript
 
 ---
 
@@ -104,7 +104,8 @@ Built using the MERN Stack to create a transparent, efficient, and accessible di
 * Provides a clear breakdown of carbon emissions along with personalized suggestions to reduce environmental impact.
 * Features an intuitive interface for quick input and easy understanding of sustainability metrics.
 * Built using **HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB** to promote environmental awareness through technology.
-
+  
+ **Tech Stack:** Node.js • Express • MongoDB • Bootstrap • JavaScript
 
 ---
 
