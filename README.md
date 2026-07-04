@@ -85,6 +85,9 @@ I'm currently open to **internship** and **full-time Software Development opport
 
 **Tech Stack:** Node.js • Express • MongoDB • Bootstrap • TypeScript
 
+![Quizo image](Screenshot%202026-06-26%20122809.png)
+
+
 ---
 
 ###  FarmConnect
@@ -96,6 +99,9 @@ I'm currently open to **internship** and **full-time Software Development opport
 
 **Tech Stack:** Node.js • Express • MongoDB • Bootstrap • JavaScript
 
+![Farmconnect image](Screenshot%202026-06-26%20122437.png)
+
+
 ---
 
 ###  Carbon Footprint Calculator
@@ -106,6 +112,9 @@ I'm currently open to **internship** and **full-time Software Development opport
 * Built using **HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB** to promote environmental awareness through technology.
   
  **Tech Stack:** Node.js • Express • MongoDB • Bootstrap • JavaScript
+
+ ![Carbon-Calc image](Screenshot%202026-06-29%20010632.png)
+
 
 ---
 
@@ -137,14 +146,6 @@ I'm currently open to **internship** and **full-time Software Development opport
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GauravSuryawanshiGit&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
