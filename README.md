@@ -75,22 +75,24 @@ I'm currently open to **internship** and **full-time Software Development opport
 
 # Featured Projects
 
-###  Quizo
+### Quizo
 * A modern online quiz platform designed for interactive learning and skill assessment.
 * Supports multiple quiz categories, difficulty levels, timers, and real-time score tracking.
 * Features leaderboards, XP, achievements, daily challenges, and personalized user dashboards.
 * Includes secure user authentication, quiz management, and performance analytics for users.
 * Built using the **MERN Stack** with a focus on scalability, responsive design, and an engaging user experience.
 
-
 **Tech Stack:** Node.js • Express • MongoDB • Bootstrap • TypeScript
 
 ![Quizo image](Screenshot%202026-06-26%20122809.png)
 
+<a href="https://quizo-7qnq.onrender.com/">
+  <img src="https://img.shields.io/badge/Live_Demo-🚀-58A6FF?style=for-the-badge" alt="Quizo Live Demo"/>
+</a>
 
 ---
 
-###  FarmConnect
+### FarmConnect
 * Connects farmers directly with consumers, reducing dependency on middlemen.
 * Enables farmers to list, manage, and sell their agricultural products online.
 * Allows customers to browse fresh produce, compare products, and place orders easily.
@@ -101,20 +103,26 @@ I'm currently open to **internship** and **full-time Software Development opport
 
 ![Farmconnect image](Screenshot%202026-06-26%20122437.png)
 
+<a href="https://farmconnect-w3pv.onrender.com/">
+  <img src="https://img.shields.io/badge/Live_Demo-🚀-58A6FF?style=for-the-badge" alt="FarmConnect Live Demo"/>
+</a>
 
 ---
 
-###  Carbon Footprint Calculator
+### Carbon Footprint Calculator
 * A web application that estimates an individual's or household's carbon footprint based on daily lifestyle activities.
 * Calculates emissions from electricity usage, transportation, food habits, and other common sources.
 * Provides a clear breakdown of carbon emissions along with personalized suggestions to reduce environmental impact.
 * Features an intuitive interface for quick input and easy understanding of sustainability metrics.
 * Built using **HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB** to promote environmental awareness through technology.
-  
- **Tech Stack:** Node.js • Express • MongoDB • Bootstrap • JavaScript
 
- ![Carbon-Calc image](Screenshot%202026-06-29%20010632.png)
+**Tech Stack:** Node.js • Express • MongoDB • Bootstrap • JavaScript
 
+![Carbon-Calc image](Screenshot%202026-06-29%20010632.png)
+
+<a href="https://carboncalc-x6ut.onrender.com/home">
+  <img src="https://img.shields.io/badge/Live_Demo-🚀-58A6FF?style=for-the-badge" alt="Carbon Footprint Calculator Live Demo"/>
+</a>
 
 ---
 
@@ -162,7 +170,7 @@ I'm currently open to **internship** and **full-time Software Development opport
 <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/suryawanshi_1211/">
+<a href="https://www.instagram.com/gaurav.r.surya/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
