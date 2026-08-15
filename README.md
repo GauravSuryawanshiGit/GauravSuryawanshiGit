@@ -54,6 +54,14 @@ My vision is to evolve into a versatile Full-Stack Engineer and Core Systems Dev
 
 <hr>
 
+<h2>LeetCode Statistics</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Garry1211?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Statistics" />
+</p>
+
+<hr>
+
 <h2>GitHub Statistics</h2>
 
 <p align="center">
