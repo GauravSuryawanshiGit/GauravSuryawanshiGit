@@ -92,13 +92,6 @@ My vision is to evolve into a versatile Full-Stack Engineer and Core Systems Dev
   <a href="https://www.instagram.com/gaurav.r.surya/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-<a href="https://x.com" target="_blank">
-  <img src="https://shields.io" />
-</a>
-
-<a href="https://vercel.app" target="_blank">
-  <img src="https://shields.io" />
-</a>
 
 
 </p>
