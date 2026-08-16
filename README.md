@@ -89,7 +89,7 @@ My vision is to evolve into a versatile Full-Stack Engineer and Core Systems Dev
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/gaurav.r.surya/">
+  <a href="https://www.instagram.com/gaurav__rajendra/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
