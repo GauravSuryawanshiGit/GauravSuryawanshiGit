@@ -11,9 +11,6 @@
   <a href="https://github.com/GauravSuryawanshiGit?tab=followers">
     <img src="https://img.shields.io/github/followers/GauravSuryawanshiGit?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/GauravSuryawanshiGit">
-    <img src="https://img.shields.io/github/stars/GauravSuryawanshiGit?style=for-the-badge" />
-  </a>
 </p>
 
 <hr>
