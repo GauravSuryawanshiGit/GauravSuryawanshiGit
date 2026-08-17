@@ -96,5 +96,5 @@ My vision is to evolve into a versatile Full-Stack Engineer and Core Systems Dev
 <hr>
 
 <p align="center">
-  <i>Great software isn't just written—it's engineered with purpose.</i>
+   <i>Great software isn't just written—it's engineered with purpose.</i>
 </p>
