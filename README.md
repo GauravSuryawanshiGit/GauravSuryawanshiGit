@@ -61,9 +61,7 @@ My vision is to evolve into a versatile Full-Stack Engineer and Core Systems Dev
 
 <h2>GitHub Statistics</h2>
 
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GauravSuryawanshiGit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GauravSuryawanshiGit&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
